@@ -67,8 +67,4 @@ Create and open `.env` then edit it with your environment variables. You will ne
 
 - #### Documentation
 
-    -Postman collection
-    
-        OR
-
-    -Swagger UI
+    - Postman collection OR Swagger UI
